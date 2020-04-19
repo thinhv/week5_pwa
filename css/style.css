@@ -21,3 +21,10 @@ html,
 .title {
   font-size: 3rem;
 }
+
+.mybackground {
+  background-image: url('https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
